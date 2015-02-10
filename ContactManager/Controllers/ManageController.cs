@@ -8,6 +8,8 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using ContactManager.Models;
 
+// This is a test comment.
+//
 namespace ContactManager.Controllers
 {
     [Authorize]
